@@ -26,6 +26,7 @@ import java.util.logging.Logger;
  */
 public class Responder implements Runnable{
     
+    //declare variables
     
     private Socket requestHandler;
     private Scanner requestReader;
